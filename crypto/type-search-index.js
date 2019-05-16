@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.amonson.crypto","l":"EncryptedFileInputStream"},{"p":"com.amonson.crypto","l":"EncryptedFileOutputStream"},{"p":"com.amonson.crypto","l":"KeyData"}]
